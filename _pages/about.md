@@ -13,7 +13,7 @@ My research interests broadly span robotics, with a particular focus on control,
 
 # Publications
 **A Value Function Space Approach for Hierarchical Planning with Signal Temporal Logic Tasks** \\
-Peiran Liu*, Yiting He*, Yihao Qin, Hang Zhou, Yiding Ji \\
+Peiran Liu, Yiting He, Yihao Qin, Hang Zhou, Yiding Ji \\
 IEEE Control Systems Letters (L-CSS), 2025 [Link](https://ieeexplore.ieee.org/document/11075843)
 
 # Preprints
