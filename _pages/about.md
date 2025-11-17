@@ -12,8 +12,8 @@ I am a third-year Ph.D. student in the [Robotics and Autonomous Systems Thrust a
 My research interests broadly span robotics, with a particular focus on control, reinforcement learning, and whole-body locomotion. I am especially interested in developing scalable and generalizable control frameworks that enable robots to operate robustly in complex, real-world environments. Recently, my work has centered on learning-based locomotion for humanoid robots, integrating simulation-driven training with real-world deployment. I also have prior experience in other areas of robotics, including formal methods and safety-critical control.
 
 # Publications
-A Value Function Space Approach for Hierarchical Planning with Signal Temporal Logic Tasks [link](https://ieeexplore.ieee.org/document/11075843)
-**Peiran Liu***, Yiting He*, Yihao Qin, Hang Zhou, Yiding Ji
-IEEE Control Systems Letters (L-CSS), 2025
+A Value Function Space Approach for Hierarchical Planning with Signal Temporal Logic Tasks \\
+Peiran Liu^*, Yiting He^*, Yihao Qin, Hang Zhou, Yiding Ji \\
+IEEE Control Systems Letters (L-CSS), 2025 [Link](https://ieeexplore.ieee.org/document/11075843)
 
 # Preprints
