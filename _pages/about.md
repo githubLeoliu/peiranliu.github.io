@@ -13,7 +13,11 @@ My research interests broadly span robotics, with a particular focus on control,
 
 # Publications
 **A Value Function Space Approach for Hierarchical Planning with Signal Temporal Logic Tasks** \\
-Peiran Liu, Yiting He, Yihao Qin, Hang Zhou, Yiding Ji \\
+Peiran Liu, Yiting He, Yihao Qin, Hang Zhou, and Yiding Ji \\
 IEEE Control Systems Letters (L-CSS), 2025 [Link](https://ieeexplore.ieee.org/document/11075843)
+
+**On Robust Supervisory Control of Metric Discrete Event Systems for scLTL Specifications** \\
+Peiran Liu, Shaowen Miao, Yiding Ji*, and Xiang Yin \\
+Discrete Event Dynamic Systems: Theory and Applications (JDES), accepted and in press, 2026.
 
 # Preprints
